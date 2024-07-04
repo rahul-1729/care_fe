@@ -10,7 +10,7 @@ import { usePath } from "raviger";
 const activeLinkPriority = {
   "/patients": "/patients",
   "/patient/": "/patients",
-  "/death_report": "/patients",
+  "/death_report": "/patients123", 
   "/assets": "/assets",
   "/sample": "/sample",
   "/shifting": "/shifting",
